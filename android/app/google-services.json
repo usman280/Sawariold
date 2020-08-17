@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "191791792689",
+    "firebase_url": "https://sawari-2288b.firebaseio.com",
+    "project_id": "sawari-2288b",
+    "storage_bucket": "sawari-2288b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191791792689:android:6fe7b2cb6848a234150b10",
+        "android_client_info": {
+          "package_name": "com.sawari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191791792689-jkcfk8en0tlouhk9sspnj954l0m35nt4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sawari",
+            "certificate_hash": "a061c486883dd515e60a1270526a5f5adc5fa038"
+          }
+        },
+        {
+          "client_id": "191791792689-l7b16gl03fem9oqht287jea5u650nr4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsDTnadNIJx96aYULTLLwL4g-qbGDhsPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191791792689-l7b16gl03fem9oqht287jea5u650nr4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
